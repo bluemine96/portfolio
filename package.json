@@ -1,0 +1,32 @@
+{
+  "name": "personal",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@antv/g2": "^5.2.5",
+    "@antv/g2plot": "^2.4.32",
+    "core-js": "^3.8.3",
+    "gsap": "^3.12.5",
+    "jquery": "^3.7.1",
+    "mitt": "^3.0.1",
+    "sass": "^1.77.8",
+    "sass-loader": "^16.0.0",
+    "screenfull": "^6.0.2",
+    "three": "^0.167.0",
+    "vue": "^3.2.13",
+    "vue-router": "^4.0.3",
+    "vuex": "^4.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "less": "^4.0.0",
+    "less-loader": "^8.0.0"
+  }
+}
